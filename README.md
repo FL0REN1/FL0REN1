@@ -46,6 +46,7 @@
   <code><img title="JSON" height="25" src="images/json.png"></code>
   <code><img title="GitHub" height="25" src="images/github.png"></code>
   <code><img title="npm" height="25" src="images/npm.png"></code>
+  <code><img title="RabbitMQ" height="25" src="images/rabbitmq-logo.svg"></code>
 </p>
 <hr>
 

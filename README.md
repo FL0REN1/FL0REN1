@@ -78,7 +78,9 @@
   <a align="left" href="https://github.com/FL0REN1/PromptifAI" title="PromptifAI"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=FL0REN1&repo=PromptifAI&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/FL0REN1/WebApi_ClientApp_WPF" title="WebApi_WPF"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=FL0REN1&repo=WebApi_ClientApp_WPF&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
-
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/FL0REN1/3D-Console-With-Keyboard" title="3D-Console-With-Keyboard"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=FL0REN1&repo=3D-Console-With-Keyboard&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
 <h4 align="center">
   <a href="https://github.com/FL0REN1?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>

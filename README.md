@@ -10,7 +10,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm William Orlov, FULL-STACK C#/React/Redux/Ts Developer from Ukraine
+  Hi, I'm William Orlov, FULL-STACK C#/React/Redux/Ts | Flutter/Dart Developer from Ukraine
   <br>
   <br>
   🔬 I am currently in 11th grade in high school, and have been in IT for over 2 years

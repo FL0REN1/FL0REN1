@@ -45,8 +45,10 @@
   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
   <code><img title="JSON" height="25" src="images/json.png"></code>
   <code><img title="GitHub" height="25" src="images/github.png"></code>
-  <code><img title="npm" height="25" src="images/npm.png"></code>
+  <code><img title="Npm" height="25" src="images/npm.png"></code>
   <code><img title="RabbitMQ" height="25" src="images/rabbitmq-logo.svg"></code>
+  <code><img title="Flutter" height="25" src="images/flutter.png"></code>
+  <code><img title="Dart" height="25" src="images/dart.png"></code>
 </p>
 <hr>
 
@@ -79,7 +81,7 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/FL0REN1/3D-Console-With-Keyboard" title="3D-Console-With-Keyboard"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=FL0REN1&repo=3D-Console-With-Keyboard&theme=react&border_color=61dafb&border_radius=10"></a><a align="left" href="https://github.com/FL0REN1/CryptoWave" title="Crypto Exchange"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=FL0REN1&repo=CryptoWave&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/FL0REN1/3D-Console-With-Keyboard" title="3D-Console-With-Keyboard"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=FL0REN1&repo=3D-Console-With-Keyboard&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/FL0REN1/CryptoWave" title="Crypto Exchange"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=FL0REN1&repo=CryptoWave&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <h4 align="center">
   <a href="https://github.com/FL0REN1?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>

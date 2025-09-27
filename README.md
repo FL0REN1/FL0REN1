@@ -13,7 +13,7 @@
   Hi, I'm William Orlov, FULL-STACK C#/React/Redux/Ts | Flutter/Dart Developer from Ukraine
   <br>
   <br>
-  🔬 I am currently in 11th grade in high school, and have been in IT for over 3 years
+  🔬 I am currently 2d university course, and have been in IT for over 5 years
   <br>
   💻 I love writing code and learn anythings about it
   <br>
